@@ -1,0 +1,1 @@
+Implemented the MenuNet Auction Mechanism and evaluated bidding performance of GPT-5-mini and 5.1 in black box auctions by measuring truthfulness and bidder regret across different experiment conditions.
